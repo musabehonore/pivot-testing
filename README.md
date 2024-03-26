@@ -11,3 +11,5 @@ commit 3
 ok
 
 commiting
+
+The today's day is Tuesday. Thanks
