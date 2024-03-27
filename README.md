@@ -11,3 +11,6 @@ commit 3
 ok
 
 commiting
+
+Verifying if the collaborators can get pivot tracker access
+
